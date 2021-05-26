@@ -1,25 +1,26 @@
-Germany,€2.0bn
-Italy,€497m
-United Kingdom,€488m
-France,€208m
-Romania,€168m
-Czech Republic,€80m
-Bulgaria,€34m
-Belgium,€27m
-Spain,€18m
-Slovakia,€15m
-Portugal,€7.1m
-Austria,€6.5m
-Ireland,€6.4m
-Netherlands,€6.0m
-Slovenia,€4.6m
-Hungary,€3.4m
-Poland,€1.7m
-Luxembourg,€536k
-Croatia,€245k
-Finland,€208k
-Cyprus,€97k
-Sweden,€51k
+Country,Cost
+Germany,2.0bn
+Italy,497m
+United Kingdom,488m
+France,208m
+Romania,168m
+Czech Republic,80m
+Bulgaria,34m
+Belgium,27m
+Spain,18m
+Slovakia,15m
+Portugal,7.1m
+Austria,6.5m
+Ireland,6.4m
+Netherlands,6.0m
+Slovenia,4.6m
+Hungary,3.4m
+Poland,1.7m
+Luxembourg,536k
+Croatia,245k
+Finland,208k
+Cyprus,97k
+Sweden,51k
 Unknown countries,0
 Lithuania,0
 Greece,0
